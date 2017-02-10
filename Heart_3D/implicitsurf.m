@@ -1,3 +1,7 @@
+%Name：画心
+%Author：ac2sherry
+%Date：2017-2-11 00:08:11
+
 function h=implicitsurf(f,xlimit,ylimit,zlimit,gd)
 if nargin==2
     ylimit=xlimit;zlimit=xlimit;gd=25;
