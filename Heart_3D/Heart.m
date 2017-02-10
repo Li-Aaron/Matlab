@@ -1,4 +1,3 @@
-%»­ÐÄ
 function Heart
 close all;clear all;clc;
 figure
