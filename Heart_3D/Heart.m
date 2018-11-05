@@ -1,6 +1,6 @@
-%Name£º»­ĞÄ
-%Author£ºac2sherry
-%Date£º2017-2-11 00:08:11
+%Nameï¼šç”»å¿ƒ
+%Authorï¼šac2sherry
+%Dateï¼š2017-2-11 00:08:11
 
 
 function Heart
@@ -12,4 +12,4 @@ set(love_value,'AmbientStrength',.5);
 rotate3d on;
 %axis off;
 shading interp;	
-title('ÀÏ¹«°®Ğ¡Æß');
+title('è€å…¬çˆ±å°ä¸ƒ');
